@@ -1,37 +1,39 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "My Modlist",
-    "description": "Best thing since sliced bread",
-    "author": "<any name you want to show up in the UI>",
+    "title": "Heartland Redux",
+    "description": "An updated and improved graphics overhaul",
+    "author": "Sam and Draz",
     "maintainers": [
-      "github/<your github name>"
+      "github/Drazden",
+      "github/TDarkShadow"
     ],
-    "game": "skyrimspecialedition",
+    "game": "oblivion",
     "tags": [
-      "testing",
-      "<any tags you want in the UI, each in its own string"
+      "visuals",
+      "modular",
+      "nevernude"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "image": "https://raw.githubusercontent.com/DrazDarkModdingHub/heartlandredux/master/imgBackground.png",
+      "readme": "https://github.com/DrazDarkModdingHub/heartlandredux/blob/master/README.md",
+      "download": "https://authored-files.wabbajack.org/Heartland%20Redux.wabbajack_d7864daf-bb7e-4d99-8379-b78419df54de",
+      "machineURL": "heartlandredux",
+      "discordURL": "https://discord.gg/UCgHPE839E"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "GrP+zngAjA8=",
+      "Size": 14461905,
+      "NumberOfArchives": 185,
+      "SizeOfArchives": 24634473019,
+      "NumberOfInstalledFiles": 44566,
+      "SizeOfInstalledFiles": 43793075858
     },
-    "version": "1.0"
+    "version": "1.2"
   }
 ]
