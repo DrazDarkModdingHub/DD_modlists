@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Heartland Redux",
     "description": "An updated and improved graphics overhaul",
     "author": "Sam and Draz",
@@ -9,31 +8,35 @@
       "github/TDarkShadow"
     ],
     "game": "oblivion",
+    "official": false,
     "tags": [
       "visuals",
       "modular",
       "nevernude"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/DrazDarkModdingHub/heartlandredux/master/imgBackground.png",
       "readme": "https://github.com/DrazDarkModdingHub/heartlandredux/blob/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Heartland%20Redux.wabbajack_d7864daf-bb7e-4d99-8379-b78419df54de",
+      "download": "https://authored-files.wabbajack.org/Heartland Redux.wabbajack_191521d6-d6b7-4552-8af7-dce70d2187dc",
       "machineURL": "heartlandredux",
       "discordURL": "https://discord.gg/UCgHPE839E"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "GrP+zngAjA8=",
-      "Size": 14461905,
+      "Hash": "kTa7Kmu2k14=",
+      "Size": 17602488,
       "NumberOfArchives": 185,
-      "SizeOfArchives": 24634473019,
-      "NumberOfInstalledFiles": 44566,
-      "SizeOfInstalledFiles": 43793075858
+      "SizeOfArchives": 24685313386,
+      "NumberOfInstalledFiles": 44587,
+      "SizeOfInstalledFiles": 43949149509
     },
-    "version": "1.2"
+    "version": "1.2.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-05-27T18:19:16.2556017Z",
+    "repositoryName": ""
   }
 ]
