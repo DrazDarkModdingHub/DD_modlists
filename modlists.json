@@ -8,8 +8,9 @@
       "github/TDarkShadow"
     ],
     "game": "oblivion",
-    "official": false,
+    "official": true,
     "tags": [
+      "Featured",
       "visuals",
       "modular",
       "nevernude"
