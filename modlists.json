@@ -19,7 +19,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/DrazDarkModdingHub/heartlandredux/master/imgBackground.png",
       "readme": "https://github.com/DrazDarkModdingHub/heartlandredux/blob/master/README.md",
